@@ -3,7 +3,7 @@
 This is a robotics project that uses an Arduino to shoot a ping pong ball.
 
 ![Picture of the cannon](Photos/Cannon1.png)
-![Picture of the cannon](Photos/Cannon2.png)
+![Picture of the cannon](Photos/cannon2.png)
 
 ### Parts
 
